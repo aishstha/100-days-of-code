@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-# [![Header](https://github.com/pablohs1986/100-days-of-code/blob/master/MY100DOC_2.gif "Header")](https://pabloherrero.me/)
+# [![Header](https://github.com/pablohs1986/100-days-of-code/blob/master/MY100DOC_3.gif "Header")](https://pabloherrero.me/)
 
 ## Contents
 
