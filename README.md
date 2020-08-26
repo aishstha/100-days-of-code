@@ -24,11 +24,7 @@
 * Cool app with Android.
 * Basic command line app with Python.
     
-## [Log - click here to see my progress](log.md)
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+## [Log (click here to see my progress)](log.md)
 
 ## If you've decided to join:
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
