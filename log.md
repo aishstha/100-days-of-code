@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August, 2020 (Example 1)
+### Day 0: August 26, 2020 (Example 1)
 ##### Preparing for the challenge. Working on this repository and on a list of goals 🦾
 
 **Link to work:** [Calculator App](http://www.example.com)
