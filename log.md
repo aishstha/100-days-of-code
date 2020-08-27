@@ -6,13 +6,14 @@ ___
 ___
 ### Day 1: August 27, 2020
 ##### Starting the challenge 🚀
-___
+
 **Today's Progress**: 
 1. I helped a StackOverflow colleague sorting an ArrayList of Objects by Dates. (1:30h...
 
 **Thoughts**: [in progress...]
 
 **Link(s) to work**: [Stack](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)
+___
 
 <!---**Link to work:** [Calculator App](http://www.example.com)
 
