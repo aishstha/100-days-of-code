@@ -8,14 +8,17 @@ ___
 ##### Starting the challenge 🚀
 
 #### **Today's Progress**: 
-1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)** (1h 20min):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.(1:30h...
+1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)** (1h 20min):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.
+
+2. **[Start The Complete JavaScript Course by Jonas Schmedtmann on Udemy](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 02min):<br>I started this amazing course to improve my JavaScript (I know the really basics). In today's lesson, we have gone over the basics.
     
 #### **What I learned**: 
 * Use of Java Comparator.
-* Convert Java String to Date.    
+* Convert Java String to Date.
+* Review of JavaScript basics.
 
 #### **Total time**:
-1h 20min
+2h 22min.
 ___
 <!---**Link to work:** [Calculator App](http://www.example.com)
 
