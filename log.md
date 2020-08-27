@@ -3,6 +3,15 @@
 ### Day 0: August 26, 2020
 ##### Preparing for the challenge. Working on this repository and on a list of goals 🦾
 
+### Day 1: August 27, 2020
+##### Starting the challenge 🚀
+
+**Today's Progress**: Contribute something to StackOverFlow...
+
+**Thoughts**: [in progress...]
+
+**Link(s) to work**: [Stack](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)
+
 <!---**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
