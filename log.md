@@ -8,9 +8,11 @@ ___
 ##### Starting the challenge 🚀
 
 #### **Today's Progress**: 
-1. [Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.(1:30h...<br>What I learned from it:
-    * Use of Java Comparator.
-    * Convert String to Date. 
+1. [Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.(1:30h...
+    
+#### **What I learned today**: 
+* Use of Java Comparator.
+* Convert String to Date.    
 ___
 <!---**Link to work:** [Calculator App](http://www.example.com)
 
