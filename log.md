@@ -1,12 +1,14 @@
-# 100 Days Of Code - Log
-
+# 100 Days Of Code - Log - Pablo Herrero
+The log of my #100DaysOfCode Challenge. Started on  27, Wednesday, 2020.
+___
 ### Day 0: August 26, 2020
 ##### Preparing for the challenge. Working on this repository and on a list of goals 🦾
 
 ### Day 1: August 27, 2020
 ##### Starting the challenge 🚀
-
-**Today's Progress**: Contribute something to StackOverFlow(1:30h...
+___
+**Today's Progress**: 
+1. I helped a StackOverflow colleague sorting an ArrayList of Objects by Dates. (1:30h...
 
 **Thoughts**: [in progress...]
 
