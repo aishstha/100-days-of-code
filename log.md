@@ -6,7 +6,7 @@
 ### Day 1: August 27, 2020
 ##### Starting the challenge 🚀
 
-**Today's Progress**: Contribute something to StackOverFlow...
+**Today's Progress**: Contribute something to StackOverFlow(1:30h...
 
 **Thoughts**: [in progress...]
 
