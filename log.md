@@ -7,14 +7,11 @@ ___
 ### Day 1: August 27, 2020
 ##### Starting the challenge 🚀
 
-**Today's Progress**: 
-1. I helped a StackOverflow colleague sorting an ArrayList of Objects by Dates. (1:30h...
-
-**Thoughts**: [in progress...]
-
-**Link(s) to work**: [Stack](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)
+#### **Today's Progress**: 
+1. [Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.(1:30h...<br>What I learned from it:
+    * Use of Java Comparator.
+    * Convert String to Date. 
 ___
-
 <!---**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
