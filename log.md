@@ -20,24 +20,17 @@ ___
 #### **Total time**:
 2h 22min.
 ___
-<!---**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: August 28, 2020
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+#### **Today's Progress**: 
+1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** (1h):<br>A question from a colleague served to practice a bit of Java Swing. In this case, I had to configure a .mp3 file playing in the background and a button to exit the program. Also, I added the option to play .wav.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+2. **[Start The Complete JavaScript Course by Jonas Schmedtmann on Udemy](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 02min):<br>I started this amazing course to improve my JavaScript (I know the really basics). In today's lesson, we have gone over the basics.
+    
+#### **What I learned**: 
+* Handle .MP3 and .WAV files in Java Swing
+(((in progress)))
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)--> 
+#### **Total time**:
+XXh XXmin.
+___
