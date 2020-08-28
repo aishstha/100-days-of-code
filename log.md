@@ -24,8 +24,6 @@ ___
 
 #### **Today's Progress**: 
 1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** (1h):<br>A question from a colleague served to practice a bit of Java Swing. In this case, I had to configure a .mp3 file playing in the background and a button to exit the program. Also, I added the option to play .wav.
-
-2. **[Start The Complete JavaScript Course by Jonas Schmedtmann on Udemy](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 02min):<br>I started this amazing course to improve my JavaScript (I know the really basics). In today's lesson, we have gone over the basics.
     
 #### **What I learned**: 
 * Handle .MP3 and .WAV files in Java Swing
