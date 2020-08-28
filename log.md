@@ -26,7 +26,8 @@ ___
 1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** (1h):<br>A question from a colleague served to practice a bit of Java Swing. In this case, I had to configure a .mp3 file playing in the background and a button to exit the program. Also, I added the option to play .wav.
     
 #### **What I learned**: 
-* Handle .MP3 and .WAV files in Java Swing
+* Handle .MP3 and .WAV files in Java Swing.
+
 (((in progress)))
 
 #### **Total time**:
