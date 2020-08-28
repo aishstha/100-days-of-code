@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log - Pablo Herrero
-The log of my #100DaysOfCode Challenge. Started on  27, Wednesday, 2020.
+The log of my #100DaysOfCode Challenge.
 ___
 ### Day 0: August 26, 2020
 ##### Preparing for the challenge. Working on this repository and on a list of goals 🦾
