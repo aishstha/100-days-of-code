@@ -8,9 +8,9 @@ ___
 ##### Starting the challenge 🚀
 
 #### **Today's Progress**: 
-1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)** (1h 20min):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.
+1. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)** (1h 20min):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.
 
-2. **[Start The Complete JavaScript Course by Jonas Schmedtmann on Udemy](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 02min):<br>I started this amazing course to improve my JavaScript (I know the really basics). In today's lesson, we have gone over the basics.
+2. **[Started The Complete JavaScript Course by Jonas Schmedtmann on Udemy](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 02min):<br>I started this amazing course to improve my JavaScript (I know the really basics). In today's lesson, we have gone over the basics.
     
 #### **What I learned**: 
 * Use of Java Comparator.
@@ -23,7 +23,7 @@ ___
 ### Day 2: August 28, 2020
 
 #### **Today's Progress**: 
-1. **[Help on Stack Overflow](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** | [GitHub Repository](https://github.com/pablohs1986/learningJavaSwing/tree/master/buttonWithMusic) (1h 5min):<br>A question from a colleague served to practice a bit of Java Swing. In this case, I had to configure a .mp3 file playing in the background and a button to exit the program. Also, I added the option to play .wav.
+1. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** | [GitHub Repository](https://github.com/pablohs1986/learningJavaSwing/tree/master/buttonWithMusic) (1h 5min):<br>A question from a colleague served to practice a bit of Java Swing. In this case, I had to configure a .mp3 file playing in the background and a button to exit the program. Also, I added the option to play .wav.
     
 #### **What I learned**: 
 * Handle .MP3 and .WAV files in Java Swing.
@@ -34,7 +34,7 @@ ___
 ### Day 3: August 29, 2020 (in progress)
 
 #### **Today's Progress**: 
-1. **[Study JavaScript with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (33min):<br>I reviewed JavaScript arrays and their methods, and I also completed challenge 3.
+1. **[Studied JavaScript with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (33min):<br>I reviewed JavaScript arrays and their methods, and I also completed challenge 3.
     
 #### **What I learned**: 
 * Review of JavaScript arrays.
