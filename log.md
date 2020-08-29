@@ -2,10 +2,10 @@
 The log of my #100DaysOfCode Challenge.
 ___
 ### Day 0: August 26, 2020
-##### Preparing for the challenge. Working on this repository and on a list of goals 🦾
+##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
 ___
 ### Day 1: August 27, 2020
-##### Starting the challenge 🚀
+##### I started the challenge 🚀
 
 #### **Today's Progress**: 
 1. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/385221/agrupar-array-multidimensional-en-java)** (1h 20min):<br>I helped a Stack Overflow colleague sorting an ArrayList of Objects by Dates. It was difficult at first, but with a little research I managed to do it.
