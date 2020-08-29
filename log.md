@@ -34,7 +34,7 @@ ___
 ### Day 3: August 29, 2020 (in progress)
 
 #### **Today's Progress**: 
-1. **[Study JavaScript with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (33min):<br>I reviewed JavaScript arrays and their methods, and I also completed challenge 3
+1. **[Study JavaScript with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (33min):<br>I reviewed JavaScript arrays and their methods, and I also completed challenge 3.
     
 #### **What I learned**: 
 * Review of JavaScript arrays.
