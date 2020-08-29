@@ -3,6 +3,10 @@
 
 ## [Log (click here to see my progress)](log.md)
 
+## Rules:
+- Code minimum an hour every day for the next 100 days.
+- Tweet your progress every day using the #100DaysOfCode hashtag (I do it in [dev.to](https://dev.to/dashboard)).
+
 ## My tech list for the challenge:
 
 ### Languages to deepen/learn:
