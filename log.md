@@ -34,11 +34,13 @@ ___
 ### Day 3: August 29, 2020 (in progress)
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (33min):<br>I reviewed JavaScript arrays and their methods, and I also completed challenge 3.
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 30min):<br>I reviewed JavaScript arrays, objects and their methods, and I also completed challenge 3 and 4.
+2. **[Learned how to create an .gitignore file](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (20min):<br>I had the need to prevent some of my files from my repositories from syncing, so I learned how to create and use the .gitignore file.
     
 #### **What I learned**: 
-* Review of JavaScript arrays.
+* Review of JavaScript arrays and objects.
+* How to create an .gitignore file.
 
 #### **Total time**:
-XXh XXmin.
+1h 50min.
 ___
