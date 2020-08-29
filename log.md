@@ -35,11 +35,11 @@ ___
 
 #### **Today's Progress**: 
 1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 30min):<br>I reviewed JavaScript arrays, objects and their methods, and I also completed challenge 3 and 4.
-2. **[Learned how to create an .gitignore file](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (20min):<br>I had the need to prevent some of my files from my repositories from syncing, so I learned how to create and use the .gitignore file.
+2. **[Learned how to create a .gitignore file](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (20min):<br>I had the need to prevent some of my files from my repositories from syncing, so I learned how to create and use a .gitignore file.
     
 #### **What I learned**: 
 * Review of JavaScript arrays and objects.
-* How to create an .gitignore file.
+* How to create a .gitignore file.
 
 #### **Total time**:
 1h 50min.
