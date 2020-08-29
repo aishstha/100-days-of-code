@@ -31,3 +31,14 @@ ___
 #### **Total time**:
 1h 5min.
 ___
+### Day 3: August 29, 2020 (in progress)
+
+#### **Today's Progress**: 
+1. **[XXXX](https://es.stackoverflow.com/questions/385290/problema-con-el-netbeans-y-los-audio-mp3/385486#385486)** | [GitHub Repository](https://github.com/pablohs1986/learningJavaSwing/tree/master/buttonWithMusic) (1h 5min):<br>XXXXX
+    
+#### **What I learned**: 
+* Handle .MP3 and .WAV files in Java Swing.
+
+#### **Total time**:
+XXh XXmin.
+___
