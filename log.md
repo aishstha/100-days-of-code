@@ -31,7 +31,7 @@ ___
 #### **Total time**:
 1h 5min.
 ___
-### Day 3: August 29, 2020 (in progress)
+### Day 3: August 29, 2020
 
 #### **Today's Progress**: 
 1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 30min):<br>I reviewed JavaScript arrays, objects and their methods, and I also completed challenge 3 and 4.
