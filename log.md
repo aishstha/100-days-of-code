@@ -48,6 +48,7 @@ ___
 
 #### **Today's Progress**: 
 1. **[Started my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (1h 57min):<br>I started a new project to implement my JavaScript knowledge and learn some basic Node.JS, a Twitter Bot called *Addicted Developer*. I prepared the project and worked on the methods.
+2. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/385929/como-llamar-una-variable-que-esta-en-otro-metodo/386014#386014)** (15min):<br>I answered a colleague's question about variables in Java, which allowed me to review the different ways to access them.
     
 #### **What I learned**: 
 * Start a JavaScript back-end projecto with Node.js.
@@ -55,5 +56,5 @@ ___
 * How a bot works.
 
 #### **Total time**:
-1h 57min.
+2h 12min.
 ___
