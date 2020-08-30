@@ -44,3 +44,13 @@ ___
 #### **Total time**:
 1h 50min.
 ___
+### Day 4: August 30, 2020
+
+#### **Today's Progress**: 
+1. **[Started my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (IN PROGRESS):<br>I started a new project to implement my JavaScript knowledge and learn some basic Node.JS...
+    
+#### **What I learned**: 
+* XXX.
+
+#### **Total time**:
+Xh XXmin.
