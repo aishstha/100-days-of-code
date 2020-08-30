@@ -47,7 +47,7 @@ ___
 ### Day 4: August 30, 2020
 
 #### **Today's Progress**: 
-1. **[Started my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (1h 57min):<br>I started a new project to implement my JavaScript knowledge and learn some basic Node.JS, a Twitter Bot called *Addicted Developer*. I started the project and worked on the methods.
+1. **[Started my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (1h 57min):<br>I started a new project to implement my JavaScript knowledge and learn some basic Node.JS, a Twitter Bot called *Addicted Developer*. I prepared the project and worked on the methods.
     
 #### **What I learned**: 
 * Start a JavaScript back-end projecto with Node.js.
