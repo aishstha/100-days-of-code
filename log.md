@@ -54,6 +54,7 @@ ___
 * Start a JavaScript back-end projecto with Node.js.
 * How the Twitter api works.
 * How a bot works.
+* Review of ways to acces variables in Java.
 
 #### **Total time**:
 2h 12min.
