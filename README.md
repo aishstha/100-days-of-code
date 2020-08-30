@@ -25,6 +25,7 @@
 * Cool game with JavaScript.
 * Desktop app with Swing & JDBC.
 * Algorithms with Java/JS/Python.
+* Cool Twitter bot with JavaScript/Python.
 * Cool app with Android.
 * Basic command line app with Python.
 
