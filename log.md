@@ -75,6 +75,5 @@ ___
 xxh xxmin.
 ___
 
-[🔝](#menu)
-[🔙](readme.md)
+[🔝](#menu)<br>[🔙](README.md)
 
