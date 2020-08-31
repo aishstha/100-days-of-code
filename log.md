@@ -77,5 +77,5 @@ ___
 1h 50min.
 ___
 
-[🔝](#menu)&nbsp;|&nbsp;[🔙](README.md)
+[🔝](#menu)
 
