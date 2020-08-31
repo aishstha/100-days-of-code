@@ -1,11 +1,7 @@
 # 100 Days Of Code - Log - Pablo Herrero
 The log of my #100DaysOfCode Challenge.
 
-* [Day 0](#day-0-august-26-2020)
-* [Day 1](#day-1-august-27-2020)
-* [Day 2](#day-2-august-28-2020)
-* [Day 3](#day-3-august-29-2020)
-* [Day 4](#day-4-august-30-2020)
+[Day 0](#day-0-august-26-2020) || [Day 1](#day-1-august-27-2020) || [Day 2](#day-2-august-28-2020) || [Day 3](#day-3-august-29-2020) || [Day 4](#day-4-august-30-2020) || [Day 5](#day-5-august-31-2020)
 
 ___
 ### Day 0: August 26, 2020
@@ -65,4 +61,16 @@ ___
 
 #### **Total time**:
 2h 12min.
+___
+### Day 5: August 31, 2020
+
+#### **Today's Progress**: 
+1. **[Learned some Markdown](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (15min):<br>I started the day learning how to make a basic menú navigate between sections in markdown.
+(in progress)...
+    
+#### **What I learned**: 
+* How to make a menú in Markdown.
+
+#### **Total time**:
+xxh xxmin.
 ___
