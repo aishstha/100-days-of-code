@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log - Pablo Herrero
 The log of my #100DaysOfCode Challenge.
+
+[Day 0](#Day-0:-August-26,-2020)
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
