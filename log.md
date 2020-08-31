@@ -66,7 +66,7 @@ ___
 
 #### **Today's Progress**: 
 1. **[Learned some Markdown](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (20min):<br>I started the day learning how to make a basic menu to navigate between sections in markdown.
-2. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (1h 30min):<br>I started to work on the methods, and I had a problem setting setInterval(). I asked my question on StackOverflow and I am waiting.
+2. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (1h 30min):<br>I started to work on the methods, and I had a problem setting setInterval(). I asked my question on StackOverflow and I am waiting. On the other hand, I configured a new branch "develop" independent of "master", on which to work the different functionalities.
     
 #### **What I learned**: 
 * How to make a menú in Markdown.
