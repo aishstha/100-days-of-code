@@ -75,4 +75,4 @@ ___
 xxh xxmin.
 ___
 
-[⬆️&nbsp;**Top**](#menu)
+[🔝](#menu)
