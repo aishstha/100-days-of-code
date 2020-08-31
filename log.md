@@ -65,7 +65,7 @@ ___
 ### Day 5: August 31, 2020
 
 #### **Today's Progress**: 
-1. **[Learned some Markdown](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (15min):<br>I started the day learning how to make a basic menú navigate between sections in markdown.
+1. **[Learned some Markdown](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (15min):<br>I started the day learning how to make a basic menú to navigate between sections in markdown.
 (in progress)...
     
 #### **What I learned**: 
