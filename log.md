@@ -71,6 +71,7 @@ ___
 #### **What I learned**: 
 * How to make a menú in Markdown.
 * Make my bot post.
+* Manage Git branches.
 
 #### **Total time**:
 1h 50min.
