@@ -79,13 +79,13 @@ ___
 ### Day 6: September 1, 2020
 
 #### **Today's Progress**: 
-1. **[asf](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (XXmin):<br>asddfg
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h):<br>I reviewed JavaScript loops and the ways to iterate over them. Also, I started challenge 5.
     
 #### **What I learned**: 
-* XX
+* Review of JavaScript loops and iteration.
 
 #### **Total time**:
-XXh XXmin.
+1h 00min.
 ___
 
 [🔝](#menu)
