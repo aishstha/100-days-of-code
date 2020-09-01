@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log - Pablo Herrero
+# 📔&nbsp;100 Days Of Code - Log - Pablo Herrero
 The log of my #100DaysOfCode Challenge. Here you can see my progress.
 
 ## Menu
