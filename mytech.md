@@ -1,4 +1,4 @@
-# 🧰&nbsp;My tech list for the challenge:
+# 🧰&nbsp;My tech list for the challenge
 
 ## Languages to deepen/learn
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/java.png"/></a>
