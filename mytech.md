@@ -1,16 +1,16 @@
 # 🧰&nbsp;My tech list for the challenge:
 
-## Languages to deepen/learn:
+## Languages to deepen/learn
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/java.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/icons8-javascript-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/icons8-typescript-48.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/icons8-python-48.png"/></a><div>
     
-## Frameworks to learn:
+## Frameworks to learn
 <div><a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/angular_A.png"/></a>
 <a href="#"><img height="40" src="https://github.com/pablohs1986/100-days-of-code/blob/master/img/icons8-android-os-48.png"/></a><div>
 
-## Project ideas:
+## Project ideas
 * Dynamic portfolio with Angular.
 * Dynamic website with Angular.
 * Static portfolio template.
