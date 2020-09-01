@@ -76,6 +76,17 @@ ___
 #### **Total time**:
 1h 50min.
 ___
+### Day 6: September 1, 2020
+
+#### **Today's Progress**: 
+1. **[asf](https://github.com/pablohs1986/100-days-of-code/edit/master/log.md)** (XXmin):<br>asddfg
+    
+#### **What I learned**: 
+* XX
+
+#### **Total time**:
+XXh XXmin.
+___
 
 [🔝](#menu)
 
