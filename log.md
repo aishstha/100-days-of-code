@@ -2,7 +2,7 @@
 The log of my #100DaysOfCode Challenge. Here you can see my progress.
 
 ## Menu
-**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)**
+**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)** || **[Day 8](#day-8-september-3-2020)**
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -100,6 +100,19 @@ ___
 
 #### **Total time**:
 1h 06min.
+___
+### Day 8: September 3, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 39min):<br>In section 3 of the course I saw about how JavaScript works behind the scenes.
+2. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/386855/como-ajustar-un-elemento-al-medio-de-la-pantalla/386883#386883)** (15min):<br>Helped a colleague to center an element vertically using CSS.
+    
+#### **What I learned**: 
+* How JavaScript internals, hoisting, scoping and this keyword.
+* Review of vertical align with CSS.
+
+#### **Total time**:
+1h 54min.
 ___
 
 [🔝](#menu)
