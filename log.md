@@ -108,7 +108,7 @@ ___
 2. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/386855/como-ajustar-un-elemento-al-medio-de-la-pantalla/386883#386883)** (15min):<br>Helped a colleague to center an element vertically using CSS.
     
 #### **What I learned**: 
-* How JavaScript internals, hoisting, scoping and this keyword.
+* How JavaScript internals works (phases, global object, hoisting, scoping and this keyword.
 * Review of vertical align with CSS.
 
 #### **Total time**:
