@@ -90,13 +90,16 @@ ___
 ### Day 7: September 2, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh):<br>xxx
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (36min):<br>I learned about the history of JavaScript and its different standards. Also, I finished with challenge 5 and this section.
+2. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/386720/como-puedo-obtener-un-nombre-aleatorio-contenido-en-un-arreglo/386723#386723)** (30min):<br>I helped a colleague to get a random name that is inside an Array, using the Math.random () method. I also edited questions from other colleagues to make them clearer.
     
 #### **What I learned**: 
 * Review of JavaScript loops and iteration.
+* History and standards of JavaScript.
+* Review of Math.random Java method.
 
 #### **Total time**:
-xxh xxmin.
+1h 06min.
 ___
 
 [🔝](#menu)
