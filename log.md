@@ -104,15 +104,19 @@ ___
 ### Day 8: September 3, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 39min):<br>In section 3 of the course I saw about how JavaScript works behind the scenes.
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (3h 01min):<br>In section 3 of the course I saw about how JavaScript works behind the scenes, and in section 4 I started to manipulate the DOM and handle the Events.
 2. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/386855/como-ajustar-un-elemento-al-medio-de-la-pantalla/386883#386883)** (15min):<br>Helped a colleague to center an element vertically using CSS.
+3. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (3h 15min):<br>I ended with tweetIt() and retweetHashtags() methods. Also, I started to deploy the bot on Heroku.
     
 #### **What I learned**: 
 * How JavaScript internals works (phases, global object, hoisting, scoping and this keyword.
+* JavaScript DOM & Events handling: querySelector, getElement, addEventListener.
 * Review of vertical align with CSS.
+* Make my bot post a random element from an array and retweet the tweets that match a series of hashtags.
+* How to use Heroku to deploy a Node.js app.
 
 #### **Total time**:
-1h 54min.
+6h 31min.
 ___
 
 [🔝](#menu)
