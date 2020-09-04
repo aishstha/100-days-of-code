@@ -118,7 +118,7 @@ ___
 #### **Total time**:
 6h 31min.
 ___
-### Day 8: September 3, 2020
+### Day 9: September 4, 2020
 
 #### **Today's Progress**: 
 1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh XXmin):<br>(IN PROGRESS)
