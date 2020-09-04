@@ -121,13 +121,15 @@ ___
 ### Day 9: September 4, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh XXmin):<br>(IN PROGRESS)
+1. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (3h):<br>I worked on my bot. First, I finished deploying it on Heroku, for which I had a small problem that [I could solve by myself](https://es.stackoverflow.com/questions/387323/error-code-module-not-found-al-intentar-desplegar-app-en-heroku). I also thoroughly set up my Heroku account and then implemented a new function for the bot to post the status of my # 100DOC challenge.
     
 #### **What I learned**: 
-* asdasd
+* How Heroku works.
+* Set my environment variables in Heroku.
+* Implement the [dotenv module](https://www.npmjs.com/package/dotenv) in my projects.
 
 #### **Total time**:
-XXh XXmin.
+3h.
 ___
 
 [🔝](#menu)
