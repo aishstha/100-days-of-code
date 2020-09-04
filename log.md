@@ -2,7 +2,7 @@
 The log of my #100DaysOfCode Challenge. Here you can see my progress.
 
 ## Menu
-**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)** || **[Day 8](#day-8-september-3-2020)**
+**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)** || **[Day 8](#day-8-september-3-2020)** || **[Day 9](#day-9-september-4-2020)**
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -117,6 +117,17 @@ ___
 
 #### **Total time**:
 6h 31min.
+___
+### Day 8: September 3, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh XXmin):<br>(IN PROGRESS)
+    
+#### **What I learned**: 
+* asdasd
+
+#### **Total time**:
+XXh XXmin.
 ___
 
 [🔝](#menu)
