@@ -134,13 +134,14 @@ ___
 ### Day 10: September 5, 2020
 
 #### **Today's Progress**: 
-1. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (XXh):<br>IN PROGRESS
+1. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (XXh):<br>Reviewing the Heroku log, I realized that my bot had an issue. The methods were not returning a random hashtag/status, something had been misspelled. I went through all the methods and found a way to make everything work. I also added new phrases and hashtags and separated them into separate files to make the code cleaner.
     
 #### **What I learned**: 
-* qwe
+* How to separate data from code in Node.js.
+* That simple things work better.
 
 #### **Total time**:
-XXh.
+3h.
 ___
 
 [🔝](#menu)
