@@ -147,13 +147,16 @@ ___
 
 #### **Today's Progress**: 
 1. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (2h):<br>I modified the tweetMasters100DocProgress() method to reference the current date to set the challenge day. I also wanted that function to run once a day, for which I first tried with the [Node-Schedule](https://www.npmjs.com/package/node-schedule) package, which was not working inside Heroku :( so I changed it to [Node-Cron](https://www.npmjs.com/package/cron), which is working perfectly. I want implement more functionalities on the bot, but that will be later, now I want to focus on the courses.
+2. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (32min):<br>In video 50 I reviewed the use of the ternary operator and I learned how to add, remove and toggle HTML classes.
     
 #### **What I learned**: 
 * How to handle dates in JavaScript.
 * Schedule functions with amazing packages like [Node-Cron](https://www.npmjs.com/package/cron).
+* Review of the ternary operator in JavaScript.
+* Add, remove and toggle HTML classes in JavaScript.
 
 #### **Total time**:
-2h.
+2h 32min.
 ___
 
 [🔝](#menu)
