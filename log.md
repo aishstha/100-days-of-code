@@ -161,13 +161,14 @@ ___
 ### Day 12: September 7, 2020
 
 #### **Today's Progress**: 
-1. **[Worked on my Addicted Developer Twitter Bot project](https://github.com/pablohs1986/addictedDEV_TwitterBot)** (2h):<br>IN PROGRESS
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h):<br>In today's lesson I review DRY principle and its importance. I also learned what is and whem use a state variable.
     
 #### **What I learned**: 
-* XX
+* The importance of DRY.
+* What is and whem use a state variable.
 
 #### **Total time**:
-XXh XXmin.
+1h.
 ___
 
 [🔝](#menu)
