@@ -161,7 +161,7 @@ ___
 ### Day 12: September 7, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h):<br>In today's lesson I review DRY principle and its importance. I also learned what is and whem use a state variable.
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h):<br>In today's lesson I review DRY principle and its importance. I also learned what is and when use a state variable.
     
 #### **What I learned**: 
 * The importance of DRY.
