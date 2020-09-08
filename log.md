@@ -173,13 +173,13 @@ ___
 ### Day 13: September 8, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh):<br>IN PROGRESS
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 18min):<br>I started challenge 6 of the course, where I'm reviewing the ways to handle DOM & Events.
     
 #### **What I learned**: 
-* XX
+* Review of DOM & Events handling.
 
 #### **Total time**:
-XXh.
+1h 18min.
 ___
 
 [🔝](#menu)
