@@ -184,7 +184,7 @@ ___
 ### Day 14: September 9, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh xxmin):IN PROGRESS
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh 47min):I started with section 5, where I started working with inheritance and objects. Concepts that I already know from Java, but applied to JavaScript.
     
 #### **What I learned**: 
 * xx
