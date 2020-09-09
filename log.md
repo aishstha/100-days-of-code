@@ -185,12 +185,14 @@ ___
 
 #### **Today's Progress**: 
 1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh 47min):I started with section 5, where I started working with inheritance and objects. Concepts that I already know from Java, but applied to JavaScript.
+2. **[Started Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h):I started a new course to strengthen my knowledge of HTML, CSS and continue to deepen in JavaScript. Today I started to read Unit 1, reviewing the structure of an HTML document.
     
 #### **What I learned**: 
-* xx
+* How inheritance and objects work in JavaScript.
+* Review of HTML structure.
 
 #### **Total time**:
-xxh xxmin.
+1h 47min.
 ___
 
 [🔝](#menu)
