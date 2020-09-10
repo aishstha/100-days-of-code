@@ -197,13 +197,14 @@ ___
 ### Day 15: September 10, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh xxmin):IN PROGRESS
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 38min):I continued with section 5, delving into objects, functions and the IIFE pattern.
     
 #### **What I learned**: 
-* XX
+* What is IIFE pattern and its use.
+* Handle objects and functions in JavaScript.
 
 #### **Total time**:
-XXh XXmin.
+1h 38min.
 ___
 
 [🔝](#menu)
