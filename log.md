@@ -210,12 +210,15 @@ ___
 
 #### **Today's Progress**: 
 1. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/388932/como-puedo-saber-cual-es-la-palabra-mas-corta-ingresada-dentro-de-un-arreglo)** (15min):<br>I helped a colleague to design a Java function that returns what is the shortest word in an array.
+2. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 06min):I learned very important concepts such as Closures or the Call, Apply and Bind methods.
     
 #### **What I learned**: 
 * Review of Java .length().
+* What is a Closure in Javascript and its uses.
+* How to use Call, Apply and Bind methods in Javascript.
 
 #### **Total time**:
-XXh 15min.
+1h 21min.
 ___
 
 [🔝](#menu)
