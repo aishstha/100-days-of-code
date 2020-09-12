@@ -2,7 +2,7 @@
 The log of my #100DaysOfCode Challenge. Here you can see my progress.
 
 ## Menu
-**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)** || **[Day 8](#day-8-september-3-2020)** || **[Day 9](#day-9-september-4-2020)** || **[Day 10](#day-10-september-5-2020)** || **[Day 11](#day-11-september-6-2020)** || **[Day 12](#day-12-september-7-2020)** || **[Day 13](#day-13-september-8-2020)** || **[Day 14](#day-14-september-9-2020)** || **[Day 15](#day-15-september-10-2020)** || **[Day 16](#day-16-september-11-2020)**
+**[Day 0](#day-0-august-26-2020)** || **[Day 1](#day-1-august-27-2020)** || **[Day 2](#day-2-august-28-2020)** || **[Day 3](#day-3-august-29-2020)** || **[Day 4](#day-4-august-30-2020)** || **[Day 5](#day-5-august-31-2020)** || **[Day 6](#day-6-september-1-2020)** || **[Day 7](#day-7-september-2-2020)** || **[Day 8](#day-8-september-3-2020)** || **[Day 9](#day-9-september-4-2020)** || **[Day 10](#day-10-september-5-2020)** || **[Day 11](#day-11-september-6-2020)** || **[Day 12](#day-12-september-7-2020)** || **[Day 13](#day-13-september-8-2020)** || **[Day 14](#day-14-september-9-2020)** || **[Day 15](#day-15-september-10-2020)** || **[Day 16](#day-16-september-11-2020)** || **[Day 17](#day-17-september-12-2020)**
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -210,7 +210,7 @@ ___
 
 #### **Today's Progress**: 
 1. **[Helped on Stack Overflow](https://es.stackoverflow.com/questions/388932/como-puedo-saber-cual-es-la-palabra-mas-corta-ingresada-dentro-de-un-arreglo)** (15min):<br>I helped a colleague to design a Java function that returns what is the shortest word in an array.
-2. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 06min):I learned very important concepts such as Closures or the Call, Apply and Bind methods.
+2. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 06min):<br>I learned very important concepts such as Closures or the Call, Apply and Bind methods.
     
 #### **What I learned**: 
 * Review of Java .length().
@@ -219,6 +219,17 @@ ___
 
 #### **Total time**:
 1h 21min.
+___
+### Day 17: September 12, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh xxmin):<br>XXX
+    
+#### **What I learned**: 
+* XXX
+
+#### **Total time**:
+xxh xxmin.
 ___
 
 [🔝](#menu)
