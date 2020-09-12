@@ -223,13 +223,14 @@ ___
 ### Day 17: September 12, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (xxh xxmin):<br>XXX
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (2h 35min):<br>I did challenge 7 which served as a summary of everything seen in this section of the course. Also, I learned what they are and how to use Callbacks.
     
 #### **What I learned**: 
-* XXX
+* Review of section 5.
+* JavaScript Callbacks.
 
 #### **Total time**:
-xxh xxmin.
+2h 35min.
 ___
 
 [🔝](#menu)
