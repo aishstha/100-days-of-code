@@ -235,13 +235,13 @@ ___
 ### Day 18: September 13, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh XXmin):<br>XX
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h):<br>I started with section 6, learning and implementing the module pattern.
     
 #### **What I learned**: 
-* XX
+* What is and implement the module pattern in JavaScript.
 
 #### **Total time**:
-XXh XXmin.
+1h.
 ___
 
 [🔝](#menu)
