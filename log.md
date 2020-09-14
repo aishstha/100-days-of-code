@@ -184,8 +184,8 @@ ___
 ### Day 14: September 9, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (47min):I started with section 5, where I started working with inheritance and objects. Concepts that I already know from Java, but applied to JavaScript.
-2. **[Started Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h):I started a new course to strengthen my knowledge of HTML, CSS and continue to deepen in JavaScript. Today I started to read Unit 1, reviewing the structure of an HTML document.
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (47min):<br>I started with section 5, where I started working with inheritance and objects. Concepts that I already know from Java, but applied to JavaScript.
+2. **[Started Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h):<br>I started a new course to strengthen my knowledge of HTML, CSS and continue to deepen in JavaScript. Today I started to read Unit 1, reviewing the structure of an HTML document.
     
 #### **What I learned**: 
 * How inheritance and objects work in JavaScript.
@@ -197,7 +197,7 @@ ___
 ### Day 15: September 10, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 38min):I continued with section 5, delving into objects, functions and the IIFE pattern.
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 38min):<br>I continued with section 5, delving into objects, functions and the IIFE pattern.
     
 #### **What I learned**: 
 * What is IIFE pattern and its use.
@@ -246,13 +246,15 @@ ___
 ### Day 19: September 14, 2020
 
 #### **Today's Progress**: 
-1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (XXh):<br>XX
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (48min):<br>Today I learned how to read input data from different HTML input types.
+2. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (36min):<br>Review of HTML format tags.
     
 #### **What I learned**: 
-* XX
+* Read input data from DOM in JavaScript.
+* Review of HTML format tags.
 
 #### **Total time**:
-XXh.
+1h 24min.
 ___
 
 [🔝](#menu)
