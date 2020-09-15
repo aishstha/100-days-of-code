@@ -259,7 +259,7 @@ ___
 ### Day 20: September 15, 2020
 
 #### **Today's Progress**: 
-1. **[Terminal/Shell Day]** (1h 30min):<br>Today was a different day. I've been setting up my terminal (Windows Terminal) and testing a few shells (Git Bash, PowerShell, WSL + Bash), I even tried other terminals like Cmder, Cygwin, and Hyper. Finally my shell will continue to be Git Bash, although I have left Ubuntu and PowerShell ready in Windows Terminal.
+1. **Terminal/Shell Day** (1h 30min):<br>Today was a different day. I've been setting up my terminal (Windows Terminal) and testing a few shells (Git Bash, PowerShell, WSL + Bash), I even tried other terminals like Cmder, Cygwin, and Hyper. Finally my shell will continue to be Git Bash, although I have left Ubuntu and PowerShell ready in Windows Terminal.
     
 #### **What I learned**: 
 * Difference between terminal, console and shell,
