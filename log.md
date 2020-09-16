@@ -272,7 +272,7 @@ ___
 ### Day 21: September 16, 2020
 
 #### **Today's Progress**: 
-1. **Terminal/Shell Day** (1h 20min):<br>Today I was fine-tuning my Git Bash, it had plenty of things and it lacked others.
+1. **[Terminal/Shell Day](https://dev.to/pablohs1986/tuning-git-bash-1eeo)** (1h 20min):<br>Today I was fine-tuning my Git Bash, it had plenty of things and it lacked others.
     
 #### **What I learned**: 
 * Tuning Git Bash, creating a new .bashrc.
