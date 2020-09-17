@@ -284,13 +284,13 @@ ___
 ### Day 22: September 17, 2020
 
 #### **Today's Progress**: 
-1. **[Terminal/Shell Day](https://dev.to/pablohs1986/tuning-git-bash-1eeo)** (xxh xxmin):<br>xx
+1. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (2h 30min):<br>I continued with Unit 1 and did most of its exercises, reviewing tables, lists, frames, and layering.
     
 #### **What I learned**: 
-* xx
+* Review of HTML tables, lists, frames and divs.
 
 #### **Total time**:
-xxh xxmin.
+2h 30min.
 ___
 
 [🔝](#menu)
