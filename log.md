@@ -30,6 +30,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 25](#day-25-september-20-2020)** || 
 **[Day 26](#day-26-september-21-2020)** || 
 **[Day 27](#day-27-september-22-2020)** || 
+**[Day 28](#day-28-september-23-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -373,7 +374,20 @@ ___
 * How and why create an initialization function.
 * Choose function constructors that meet aplications needs.
 * Set up a proper data structure for the budget controller.
-* How and why pass data from one module to another.
+* How and why to pass data from one module to another.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 28: September 23, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 30min):<br>I continued with the Budget App project. I added HTML to the DOM, replaced parts of strings and manipulated the DOM using inserAdjacentHTML method.
+    
+#### **What I learned**: 
+* Adding big chunks of HTML into the DOM.
+* Replace parts of strings.
+* How to do DOM manipulation using the insertAdjacentHTML method.
 
 #### **Total time**:
 1h 30min.
