@@ -32,6 +32,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 27](#day-27-september-22-2020)** || 
 **[Day 28](#day-28-september-23-2020)** || 
 **[Day 29](#day-29-september-24-2020)** || 
+**[Day 30](#day-30-september-25-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -406,6 +407,23 @@ ___
 
 #### **Total time**:
 1h 10min.
+___
+### Day 30: September 25, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (2h):<br>I continued with the Budget App project, working on the appropriate method to update the Budget.
+2. **[I started the redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (30min):<br>I started work on redesigning my portfolio by making a sketch with Figma.
+    
+#### **What I learned**: 
+* Conver field inputs to numbers.
+* Prevent false inputs.
+* Why create simple and reusable functions with only one purpose.
+* Sum all elements of an array using forEach method.
+* Practiced DOM manipulation.
+* Make a complet webdesign with Figma.
+
+#### **Total time**:
+2h 30min.
 ___
 
 [🔝](#menu)
