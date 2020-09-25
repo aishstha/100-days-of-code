@@ -31,6 +31,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 26](#day-26-september-21-2020)** || 
 **[Day 27](#day-27-september-22-2020)** || 
 **[Day 28](#day-28-september-23-2020)** || 
+**[Day 29](#day-29-september-24-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -391,6 +392,20 @@ ___
 
 #### **Total time**:
 1h 30min.
+___
+### Day 29: September 24, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with The Complete JavaScript Course](https://github.com/pablohs1986/javaScriptCompleteCourse2020_Schmedtmann)** (1h 10min):<br>I continued with the Budget App project. I did a method to clear the fields after entering a value. I used the querySelectorAll mehod, converted a list to an array and I cleaned the fields as I ran a foreach loop.
+    
+#### **What I learned**: 
+* Clear HTML fields.
+* Use querySelectorALl.
+* Convert a list to an array.
+* Review of foreach loop in JavaScript.
+
+#### **Total time**:
+1h 10min.
 ___
 
 [🔝](#menu)
