@@ -33,6 +33,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 28](#day-28-september-23-2020)** || 
 **[Day 29](#day-29-september-24-2020)** || 
 **[Day 30](#day-30-september-25-2020)** || 
+**[Day 31](#day-31-september-26-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -424,6 +425,18 @@ ___
 
 #### **Total time**:
 2h 30min.
+___
+### Day 31: September 26, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>I did the basic template of the project and started write the navbar.
+    
+#### **What I learned**: 
+* Review of html basics.
+* Review of Bootstrap basics.
+
+#### **Total time**:
+1h 30min.
 ___
 
 [🔝](#menu)
