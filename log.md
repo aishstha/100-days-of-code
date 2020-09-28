@@ -34,6 +34,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 29](#day-29-september-24-2020)** || 
 **[Day 30](#day-30-september-25-2020)** || 
 **[Day 31](#day-31-september-26-2020)** || 
+**[Day 32](#day-32-september-27-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -437,6 +438,19 @@ ___
 
 #### **Total time**:
 1h 30min.
+___
+### Day 32: September 27, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h 30min):<br>I made the sticky navbar and footer, header, and started with the about section and JavaScript logic for the portfolio, all with Bootstrap 4.
+    
+#### **What I learned**: 
+* Review of html basics.
+* Review of Bootstrap basics.
+* Review of JavaScript basics.
+
+#### **Total time**:
+2h 30min.
 ___
 
 [🔝](#menu)
