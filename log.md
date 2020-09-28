@@ -35,6 +35,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 30](#day-30-september-25-2020)** || 
 **[Day 31](#day-31-september-26-2020)** || 
 **[Day 32](#day-32-september-27-2020)** || 
+**[Day 32](#day-33-september-28-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -451,6 +452,21 @@ ___
 
 #### **Total time**:
 2h 30min.
+___
+### Day 33: September 28, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I continued working on my portfolio. I tried to implement certain logic using JavaScript to handle the UI, although I finally ended up making use of the fullPage.js library.
+    
+#### **What I learned**: 
+* Review of html basics.
+* Review of Bootstrap basics.
+* Review of JavaScript basics.
+* Implement external libraries.
+* Use of fullPage.js.
+
+#### **Total time**:
+2h.
 ___
 
 [🔝](#menu)
