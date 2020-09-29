@@ -35,8 +35,8 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 30](#day-30-september-25-2020)** || 
 **[Day 31](#day-31-september-26-2020)** || 
 **[Day 32](#day-32-september-27-2020)** || 
-**[Day 32](#day-33-september-28-2020)** || 
-**[Day 32](#day-34-september-29-2020)** || 
+**[Day 33](#day-33-september-28-2020)** || 
+**[Day 34](#day-34-september-29-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
