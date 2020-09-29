@@ -36,6 +36,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 31](#day-31-september-26-2020)** || 
 **[Day 32](#day-32-september-27-2020)** || 
 **[Day 32](#day-33-september-28-2020)** || 
+**[Day 32](#day-34-september-29-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -467,6 +468,18 @@ ___
 
 #### **Total time**:
 2h.
+___
+### Day 34: September 29, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>After trying fullPage.js, I decided to go back, I was not convinced. I continued starting to implement the scrollspy.
+    
+#### **What I learned**: 
+* Make a scrollspy with Bootstrap.
+* Rollback is good.
+
+#### **Total time**:
+1h.
 ___
 
 [🔝](#menu)
