@@ -37,6 +37,9 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 32](#day-32-september-27-2020)** || 
 **[Day 33](#day-33-september-28-2020)** || 
 **[Day 34](#day-34-september-29-2020)** || 
+**[Day 35](#day-35-september-30-2020)** || 
+**[Day 36](#day-36-october-01-2020)** || 
+**[Day 37](#day-37-october-02-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -477,6 +480,43 @@ ___
 #### **What I learned**: 
 * Make a scrollspy with Bootstrap.
 * Rollback is good.
+
+#### **Total time**:
+1h.
+___
+### Day 35: September 30, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>It continued to implement the scrollspy. I'm having trouble doing it.
+    
+#### **What I learned**: 
+* Make a scrollspy with Bootstrap.
+* The art of debugging.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 36: October 01, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>It continued to implement the scrollspy. I'm having trouble doing it.
+    
+#### **What I learned**: 
+* Make a scrollspy with Bootstrap.
+* The art of debugging.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 37: October 02, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I finished implementing the scrollspy. In fact, it took me a while and I had to ask to my friends at [Stack Overflow](https://stackoverflow.com/questions/64167559/unable-to-implement-a-scrollspy-with-bootstrap-4-why) to find out what was going on, because I just didn't see it. I also applied a smooth effect to the scroll.
+    
+#### **What I learned**: 
+* Make a scrollspy with Bootstrap.
+* The art of debugging.
+* Ask for help when you don't see it.
 
 #### **Total time**:
 1h.
