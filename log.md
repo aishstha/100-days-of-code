@@ -487,7 +487,7 @@ ___
 ### Day 35: September 30, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>It continued to implement the scrollspy. I'm having trouble doing it.
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>I continued implementing the scrollspy. I'm having trouble doing it.
     
 #### **What I learned**: 
 * Make a scrollspy with Bootstrap.
@@ -499,14 +499,14 @@ ___
 ### Day 36: October 01, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>It continued to implement the scrollspy. I'm having trouble doing it.
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I continued implementing the scrollspy. I'm having trouble doing it.
     
 #### **What I learned**: 
 * Make a scrollspy with Bootstrap.
 * The art of debugging.
 
 #### **Total time**:
-1h 30min.
+1h.
 ___
 ### Day 37: October 02, 2020
 
