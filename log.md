@@ -40,6 +40,9 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 35](#day-35-september-30-2020)** || 
 **[Day 36](#day-36-october-01-2020)** || 
 **[Day 37](#day-37-october-02-2020)** || 
+**[Day 38](#day-38-october-03-2020)** || 
+**[Day 39](#day-39-october-04-2020)** || 
+**[Day 40](#day-40-october-05-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -517,6 +520,40 @@ ___
 * Make a scrollspy with Bootstrap.
 * The art of debugging.
 * Ask for help when you don't see it.
+
+#### **Total time**:
+1h.
+___
+### Day 38: October 03, 2020
+
+#### **Today's Progress**: 
+1. **Setting up WSL2** (1h):<br>I configured WSL2 with ZSH and Oh My ZSH.
+    
+#### **What I learned**: 
+* How to set up WSL.
+* How to install ZSH and customize it.
+
+#### **Total time**:
+1h.
+___
+### Day 39: October 04, 2020
+
+#### **Today's Progress**: 
+1. **Setting up WSL2** (1h):<br>I put a few finishing touches on to my ZSH with PowerLevel10k theme.
+    
+#### **What I learned**: 
+* How to install ZSH and customize it.
+
+#### **Total time**:
+1h.
+___
+### Day 34: October 05, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+    
+#### **What I learned**: 
+* XX
 
 #### **Total time**:
 1h.
