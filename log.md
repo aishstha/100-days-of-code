@@ -43,6 +43,9 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 38](#day-38-october-03-2020)** || 
 **[Day 39](#day-39-october-04-2020)** || 
 **[Day 40](#day-40-october-05-2020)** || 
+**[Day 41](#day-41-october-06-2020)** || 
+**[Day 41](#day-42-october-07-2020)** || 
+**[Day 41](#day-43-october-08-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -547,7 +550,40 @@ ___
 #### **Total time**:
 1h.
 ___
-### Day 34: October 05, 2020
+### Day 40: October 05, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+    
+#### **What I learned**: 
+* XX
+
+#### **Total time**:
+1h.
+___
+### Day 42: October 07, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+    
+#### **What I learned**: 
+* XX
+
+#### **Total time**:
+1h.
+___
+### Day 43: October 08, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+    
+#### **What I learned**: 
+* XX
+
+#### **Total time**:
+1h.
+___
+### Day 41: October 06, 2020
 
 #### **Today's Progress**: 
 1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
