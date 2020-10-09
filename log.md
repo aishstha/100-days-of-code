@@ -44,8 +44,9 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 39](#day-39-october-04-2020)** || 
 **[Day 40](#day-40-october-05-2020)** || 
 **[Day 41](#day-41-october-06-2020)** || 
-**[Day 41](#day-42-october-07-2020)** || 
-**[Day 41](#day-43-october-08-2020)** || 
+**[Day 42](#day-42-october-07-2020)** || 
+**[Day 43](#day-43-october-08-2020)** || 
+**[Day 44](#day-44-october-09-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -553,32 +554,10 @@ ___
 ### Day 40: October 05, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>Working on works section. Studying some Bootstrap Grid concepts.
     
 #### **What I learned**: 
-* XX
-
-#### **Total time**:
-1h.
-___
-### Day 42: October 07, 2020
-
-#### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
-    
-#### **What I learned**: 
-* XX
-
-#### **Total time**:
-1h.
-___
-### Day 43: October 08, 2020
-
-#### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
-    
-#### **What I learned**: 
-* XX
+* Bootstrap Grid concepts.
 
 #### **Total time**:
 1h.
@@ -586,10 +565,45 @@ ___
 ### Day 41: October 06, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>XX
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>Working on works section. Studying some Bootstrap Grid concepts.
     
 #### **What I learned**: 
-* XX
+* Bootstrap Grid concepts.
+
+#### **Total time**:
+1h.
+___
+### Day 42: October 07, 2020
+
+#### **Today's Progress**: 
+1. **Setting up my old MacBook** (1h):<br>Today I spent some time setting up my old MacBook, installing my tech stack and some cool things like ZSH shell.
+    
+#### **What I learned**: 
+* Install XCode.
+* Setting up ZSH and Oh my ZSH!
+* Setting up a MacOS system for development.
+
+#### **Total time**:
+1h.
+___
+### Day 43: October 08, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h):<br>I started the second part of the course with some basic CSS exercises.
+    
+#### **What I learned**: 
+* Review of basic CSS concepts.
+
+#### **Total time**:
+1h.
+___
+### Day 44: October 09, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h):<br>I continued with some basic CSS exercises.
+    
+#### **What I learned**: 
+* Review of basic CSS concepts.
 
 #### **Total time**:
 1h.
