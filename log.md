@@ -47,6 +47,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 42](#day-42-october-07-2020)** || 
 **[Day 43](#day-43-october-08-2020)** || 
 **[Day 44](#day-44-october-09-2020)** || 
+**[Day 45](#day-45-october-10-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -607,6 +608,17 @@ ___
 
 #### **Total time**:
 1h.
+___
+### Day 45: October 10, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (1h 30min):<br>I did the exercises in the second part of the course, applying basic CSS concepts.
+    
+#### **What I learned**: 
+* Review of basic CSS concepts.
+
+#### **Total time**:
+1h 30min.
 ___
 
 [🔝](#menu)
