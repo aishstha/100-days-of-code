@@ -635,7 +635,7 @@ ___
 ### Day 46: October 11, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I continued working on works and contact section. Delving into flexx classes in Bootstrap.
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 45min):<br>I continued working on works and contact section. Delving into flexx classes in Bootstrap.
     
 #### **What I learned**: 
 * Review flex classes in Bootstrap.
