@@ -672,14 +672,13 @@ ___
 ### Day 49: October 14, 2020
 
 #### **Today's Progress**: 
-1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I ended the first part of works section and started with expandProjectOnClick function.
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I continued working on expandProjectOnClick function.
     
 #### **What I learned**: 
-* Review flex classes in Bootstrap.
 * Review of JavaScript events.
 
 #### **Total time**:
-2h.
+1h.
 ___
 
 [🔝](#menu)
