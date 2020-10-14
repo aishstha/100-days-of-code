@@ -50,6 +50,8 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 45](#day-45-october-10-2020)** || 
 **[Day 46](#day-46-october-11-2020)** || 
 **[Day 47](#day-47-october-12-2020)** || 
+**[Day 48](#day-48-october-13-2020)** || 
+**[Day 49](#day-49-october-14-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -645,6 +647,29 @@ ___
 1h 45min.
 ___
 ### Day 47: October 12, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I ended the first part of works section and started with expandProjectOnClick function.
+    
+#### **What I learned**: 
+* Review flex classes in Bootstrap.
+* Review of JavaScript events.
+
+#### **Total time**:
+2h.
+___
+### Day 48: October 13, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h 30min):<br>I continued working on expandProjectOnClick function.
+    
+#### **What I learned**: 
+* Review of JavaScript events.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 49: October 14, 2020
 
 #### **Today's Progress**: 
 1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I ended the first part of works section and started with expandProjectOnClick function.
