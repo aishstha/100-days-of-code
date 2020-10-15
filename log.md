@@ -52,6 +52,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 47](#day-47-october-12-2020)** || 
 **[Day 48](#day-48-october-13-2020)** || 
 **[Day 49](#day-49-october-14-2020)** || 
+**[Day 50](#day-50-october-15-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -676,6 +677,17 @@ ___
     
 #### **What I learned**: 
 * Review of JavaScript events.
+
+#### **Total time**:
+1h.
+___
+### Day 50: October 15, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I kept working on the works section. I was stuck so I decided to change the course of the section. I have opted to implement Bootstrap modals and it is working fine.
+    
+#### **What I learned**: 
+* How to implement Bootstrap modals.
 
 #### **Total time**:
 1h.
