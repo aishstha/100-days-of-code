@@ -53,6 +53,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 48](#day-48-october-13-2020)** || 
 **[Day 49](#day-49-october-14-2020)** || 
 **[Day 50](#day-50-october-15-2020)** || 
+**[Day 51](#day-51-october-16-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -691,6 +692,18 @@ ___
 
 #### **Total time**:
 1h.
+___
+### Day 51: October 16, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I ended with works section and implemented Typed.js on header and about section.
+    
+#### **What I learned**: 
+* Implement and beautify Bootstrap modals.
+* Review of setting up Typed.js. 
+
+#### **Total time**:
+2h.
 ___
 
 [🔝](#menu)
