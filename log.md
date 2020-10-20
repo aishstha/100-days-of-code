@@ -54,6 +54,10 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 49](#day-49-october-14-2020)** || 
 **[Day 50](#day-50-october-15-2020)** || 
 **[Day 51](#day-51-october-16-2020)** || 
+**[Day 52](#day-52-october-17-2020)** || 
+**[Day 53](#day-53-october-18-2020)** || 
+**[Day 54](#day-54-october-19-2020)** || 
+**[Day 55](#day-55-october-20-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -701,6 +705,52 @@ ___
 #### **What I learned**: 
 * Implement and beautify Bootstrap modals.
 * Review of setting up Typed.js. 
+
+#### **Total time**:
+2h.
+___
+### Day 52: October 17, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I added Animate.css library, Favicons and implement tablet size media queries.
+    
+#### **What I learned**: 
+* Implement Animate.css library.
+* Review of media queries. 
+
+#### **Total time**:
+2h.
+___
+### Day 53: October 18, 2020
+
+#### **Today's Progress**: 
+1. **[Redesign of my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (2h):<br>I ended the version 5 of my portfolio with some final touches: I added sitemap, robots, license, change blacks to Dracula blacks and merge all to master.
+    
+#### **What I learned**: 
+* Use of merge ours.
+
+#### **Total time**:
+2h.
+___
+### Day 54: October 19, 2020
+
+#### **Today's Progress**: 
+1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I began this course by reviewing Java with the goose game. Today I started to design it with UML.
+    
+#### **What I learned**: 
+* Review of UML design.
+
+#### **Total time**:
+1h.
+___
+### Day 55: October 20, 2020
+
+#### **Today's Progress**: 
+1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I continued with the UML and started to code.
+    
+#### **What I learned**: 
+* Review of UML design.
++ Review of Java sintax.
 
 #### **Total time**:
 2h.
