@@ -58,6 +58,12 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 53](#day-53-october-18-2020)** || 
 **[Day 54](#day-54-october-19-2020)** || 
 **[Day 55](#day-55-october-20-2020)** || 
+**[Day 56](#day-56-october-21-2020)** || 
+**[Day 57](#day-57-october-22-2020)** || 
+**[Day 58](#day-58-october-23-2020)** || 
+**[Day 59](#day-59-october-24-2020)** || 
+**[Day 60](#day-60-october-25-2020)** || 
+**[Day 61](#day-61-october-26-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -743,17 +749,102 @@ ___
 #### **Total time**:
 1h.
 ___
-### Day 55: October 20, 2020
+### Day 55: October 21, 2020
 
 #### **Today's Progress**: 
 1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I continued with the UML and started to code.
     
 #### **What I learned**: 
 * Review of UML design.
-+ Review of Java sintax.
+* Review of Java sintax.
 
 #### **Total time**:
 2h.
+___
+### Day 56: October 22, 2020
+
+#### **Today's Progress**: 
+1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (2h):<br>I continued with the implementation of the UML on code.
+    
+#### **What I learned**: 
+* Review of Java Lists.
+* Review of Java sintax.
+
+#### **Total time**:
+2h.
+___
+### Day 57: October 23, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I started the first exercise of section A.
+2. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I continued with the implementation of the UML on code. Estoy encontrando con varios problemas para mostrar el tablero.
+    
+#### **What I learned**: 
+* Using the File class to find the root of the system, list files by name, and list only directories. 
+* Review of Java Lists.
+* Review of Java sintax.
+
+#### **Total time**:
+2h.
+___
+### Day 58: October 24, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued doing the first exercise of this section.
+2. **[Currency converter](https://github.com/pablohs1986/dam_di2021)** (1h):<br>I started to make a currency converter with Swing. I have to work on how to pass information from one screen to another.
+    
+#### **What I learned**: 
+* Using the File class to find the root of the system, list files by name, and list only directories. 
+* Review of exception handling and creation of your own exceptions. 
+* How to make an interface with Swing.
+
+#### **Total time**:
+3h.
+___
+### Day 59: October 25, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I continued doing the first exercise of this section.
+
+1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I kept coding goose.
+    
+#### **What I learned**: 
+* Using the File class to find the root of the system, list files by name, and list only directories. 
+* Review of exception handling and creation of your own exceptions. 
+* Review of Java sintax.
+
+#### **Total time**:
+2h.
+___
+### Day 60: October 26, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I ended the first exercise of this section.
+2. **[Fixing some things in my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>Thanks to a fellow dev.to I have noticed some space errors in my design. With his advice, I have started to fix them.
+    
+#### **What I learned**: 
+* Review of exception handling and creation of your own exceptions. 
+* Generation and use of JavaDoc.
+* Review of Java sintax.
+
+#### **Total time**:
+2h.
+___
+### Day 61: October 27, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I continued studying File Java class with the next exercise. I have a problem with an exception that I have to review.
+2. **[Fixing some things in my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I kept fixing some spacing issues on my portfolio.
+3. **[Company project for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h):<br>Empecé a realizar mi proyecto de empresa para implementar los ERP a lo largo del curso.
+   
+    
+#### **What I learned**: 
+* How to create directories in Java.
+* Be thorough when applying web spaces to achieve a consistent design.
+* Business creation basics.
+
+#### **Total time**:
+3h.
 ___
 
 [🔝](#menu)
