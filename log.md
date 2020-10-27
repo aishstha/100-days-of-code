@@ -749,7 +749,7 @@ ___
 #### **Total time**:
 1h.
 ___
-### Day 55: October 21, 2020
+### Day 55: October 20, 2020
 
 #### **Today's Progress**: 
 1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (1h):<br>I continued with the UML and started to code.
@@ -761,7 +761,7 @@ ___
 #### **Total time**:
 2h.
 ___
-### Day 56: October 22, 2020
+### Day 56: October 21, 2020
 
 #### **Today's Progress**: 
 1. **[Goose game](https://github.com/pablohs1986/gooseGameJava)** (2h):<br>I continued with the implementation of the UML on code.
@@ -773,7 +773,7 @@ ___
 #### **Total time**:
 2h.
 ___
-### Day 57: October 23, 2020
+### Day 57: October 22, 2020
 
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I started the first exercise of section A.
@@ -787,7 +787,7 @@ ___
 #### **Total time**:
 2h.
 ___
-### Day 58: October 24, 2020
+### Day 58: October 23, 2020
 
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued doing the first exercise of this section.
@@ -801,7 +801,7 @@ ___
 #### **Total time**:
 3h.
 ___
-### Day 59: October 25, 2020
+### Day 59: October 24, 2020
 
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I continued doing the first exercise of this section.
@@ -816,7 +816,7 @@ ___
 #### **Total time**:
 2h.
 ___
-### Day 60: October 26, 2020
+### Day 60: October 25, 2020
 
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I ended the first exercise of this section.
@@ -830,7 +830,7 @@ ___
 #### **Total time**:
 2h.
 ___
-### Day 61: October 27, 2020
+### Day 61: October 26, 2020
 
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I continued studying File Java class with the next exercise. I have a problem with an exception that I have to review.
