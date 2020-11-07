@@ -64,6 +64,17 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 59](#day-59-october-24-2020)** || 
 **[Day 60](#day-60-october-25-2020)** || 
 **[Day 61](#day-61-october-26-2020)** || 
+**[Day 62](#day-62-october-27-2020)** || 
+**[Day 63](#day-63-october-28-2020)** || 
+**[Day 64](#day-64-october-29-2020)** || 
+**[Day 65](#day-65-october-30-2020)** || 
+**[Day 66](#day-66-october-31-2020)** || 
+**[Day 67](#day-67-november-01-2020)** || 
+**[Day 68](#day-68-november-02-2020)** || 
+**[Day 69](#day-69-november-03-2020)** || 
+**[Day 70](#day-70-november-04-2020)** || 
+**[Day 71](#day-71-november-05-2020)** || 
+**[Day 72](#day-72-november-06-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -835,7 +846,7 @@ ___
 #### **Today's Progress**: 
 1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h):<br>I continued studying File Java class with the next exercise. I have a problem with an exception that I have to review.
 2. **[Fixing some things in my portfolio](https://github.com/pablohs1986/pablohs1986.github.io)** (1h):<br>I kept fixing some spacing issues on my portfolio.
-3. **[Company project for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h):<br>Empecé a realizar mi proyecto de empresa para implementar los ERP a lo largo del curso.
+3. **[Company project for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h):<br>I started to carry out my company project to implement ERP throughout the course.
    
     
 #### **What I learned**: 
@@ -845,6 +856,138 @@ ___
 
 #### **Total time**:
 3h.
+___
+### Day 62: October 27, 2020
+
+#### **Today's Progress**: 
+1. **[Company project for SGE](https://github.com/pablohs1986/dam_sge2021)** (4h):<br>I continued doing my business project.
+    
+#### **What I learned**: 
+* Business creation basics.
+
+#### **Total time**:
+4h.
+___
+### Day 63: October 28, 2020
+
+#### **Today's Progress**: 
+1. **[Company project for SGE](https://github.com/pablohs1986/dam_sge2021)** (4h):<br>I ended my business project.
+    
+#### **What I learned**: 
+* Business creation basics.
+
+#### **Total time**:
+4h.
+___
+### Day 64: October 29, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I fixed my problem with a exception and continued studying File Java class with exercises 1b and 1c.
+    
+#### **What I learned**: 
+* Java exceptions review.
+* Java File class methods review.
+
+#### **Total time**:
+2h.
+___
+### Day 65: October 30, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued studying File Java class with exercise 2, doing some recursive methods.
+    
+#### **What I learned**: 
+* What's recursion.
+* Apply recursion to Java.
+
+#### **Total time**:
+2h.
+___
+### Day 66: October 31, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued studying File Java class with exercise 3, doing some cool filters with FileNameFilter interface.
+    
+#### **What I learned**: 
+* What's and how use Java FileNameFilter interface.
+
+#### **Total time**:
+2h.
+___
+### Day 67: November 01, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued studying File Java class with exercise 4. In the first part of this exercise, I am implementing Caesar cipher in a Java program, which will encrypt/decrypt all the files in a directory.
+    
+#### **What I learned**: 
+* Review of FileInputStream/FileOutputStream.
+* What's Caesar cipher.
+
+#### **Total time**:
+2h.
+___
+### Day 68: November 02, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued implementing Caesar cipher in a Java program.
+    
+#### **What I learned**: 
+* Review of FileInputStream/FileOutputStream.
+* What's Caesar cipher.
+
+#### **Total time**:
+2h.
+___
+### Day 69: November 03, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued implementing Caesar cipher in a Java program.
+    
+#### **What I learned**: 
+* Review of FileInputStream/FileOutputStream.
+* What's Caesar cipher.
+
+#### **Total time**:
+2h.
+___
+### Day 70: November 04, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued implementing Caesar cipher in a Java program.
+    
+#### **What I learned**: 
+* Review of FileInputStream/FileOutputStream.
+* What's Caesar cipher.
+
+#### **Total time**:
+2h.
+___
+### Day 71: November 05, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I ended implementing Caesar cipher in a Java program.
+2. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (3h):<br>I did a quick refresher on HTML and CSS for my exam on Friday. To do this, I made a full page as a mockup.
+    
+#### **What I learned**: 
+* Review of FileInputStream/FileOutputStream.
+* What's Caesar cipher.
+* Review o HTML & CSS
+
+#### **Total time**:
+5h.
+___
+### Day 72: November 06, 2020
+
+#### **Today's Progress**: 
+1. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (2h):<br>I did my exam, it turned out great.
+2. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I continued with the second part of the exercise 4 making a Java program that calculates the distribution of the letters for the same text in English and Spanish.
+    
+#### **What I learned**: 
+* What's and how to use a Java HashMap.
+* Review o HTML & CSS
+
+#### **Total time**:
+4h.
 ___
 
 [🔝](#menu)
