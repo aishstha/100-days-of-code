@@ -75,6 +75,7 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 70](#day-70-november-04-2020)** || 
 **[Day 71](#day-71-november-05-2020)** || 
 **[Day 72](#day-72-november-06-2020)** || 
+**[Day 73](#day-73-november-07-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -988,6 +989,24 @@ ___
 
 #### **Total time**:
 4h.
+___
+### Day 73: November 07, 2020
+
+#### **Today's Progress**: 
+1. **[DI theory](https://github.com/pablohs1986/dam_di2021)** (1h):<br>I began to study the theory of the subject.
+2. **[Environment for SGE](https://github.com/pablohs1986/dam_sge2021)** (2h):<br>I prepared my work environment, installing and configuring a new virtual machine with Ubuntu Server and a SSH connection with Putty and pgAdmin.
+3. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (30min):<br>I ended the second part of the exercise 4 making the JavaDoc.
+    
+#### **What I learned**: 
+* Basics of Java Swing.
+* Review of how to make a virtual machine in VirtualBox.
+* How to install and configure Ubuntu Server.
+* What's Putty and its use.
+* What's pgAdmin and its use.
+* How to install and configure a SSH connection with Putty and pgAdmin.
+
+#### **Total time**:
+3h 30min.
 ___
 
 [🔝](#menu)
