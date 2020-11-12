@@ -76,6 +76,10 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 71](#day-71-november-05-2020)** || 
 **[Day 72](#day-72-november-06-2020)** || 
 **[Day 73](#day-73-november-07-2020)** || 
+**[Day 74](#day-74-november-08-2020)** || 
+**[Day 75](#day-75-november-09-2020)** || 
+**[Day 76](#day-76-november-10-2020)** || 
+**[Day 77](#day-77-november-11-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -1007,6 +1011,53 @@ ___
 
 #### **Total time**:
 3h 30min.
+___
+### Day 74: November 08, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (4h):<br>I refactorize some of the methods from the Cesar part of the exercise 4 encryption and I finished the part of calculating the letter distribution.. I had some trouble reading the letter Ñ with a FileInputStream.
+    
+#### **What I learned**: 
+* Java Collections.
+
+#### **Total time**:
+4h.
+___
+### Day 75: November 09, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (3h):<br>I made a histogram (bar chart) from the letter distribution. I redid the JavaDoc for both exercises.
+    
+#### **What I learned**: 
+* How to make an histogram in Java.
+
+#### **Total time**:
+3h.
+___
+### Day 76: November 10, 2020
+
+#### **Today's Progress**: 
+1. **[PSP, preparing the environment](https://github.com/pablohs1986/dam_psp2021)** (3h):<br>I was preparing the environment for the exercises of this subject (Programming of Services and Processes), based on programming with threads in Java. I had to create a single-core virtual machine, but I encountered constant blue screens on the virtual machine. I'm afraid it's because of the tests I did in the summer with WSL and WSL2.
+    
+#### **What I learned**: 
+* Basic thread theory in Java.
+* Review of how to make a virtual machine in Virtualbox.
+
+#### **Total time**:
+3h.
+___
+### Day 77: November 11, 2020
+
+#### **Today's Progress**: 
+1. **[PSP, preparing the environment](https://github.com/pablohs1986/dam_psp2021)** (4h):<br>After trying to solve the blue screen problems of the previous day without success, I decided to format my pc and do a clean installation of everything. I was successful and I already have my virtual machines working perfectly.
+    
+#### **What I learned**: 
+* Basic thread theory in Java.
+* Review of how to make a virtual machine in Virtualbox.
+* Review of preparing a Windows environment.
+
+#### **Total time**:
+4h.
 ___
 
 [🔝](#menu)
