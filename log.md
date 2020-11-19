@@ -80,6 +80,13 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 75](#day-75-november-09-2020)** || 
 **[Day 76](#day-76-november-10-2020)** || 
 **[Day 77](#day-77-november-11-2020)** || 
+**[Day 78](#day-78-november-12-2020)** || 
+**[Day 79](#day-79-november-13-2020)** || 
+**[Day 80](#day-80-november-14-2020)** || 
+**[Day 81](#day-81-november-15-2020)** || 
+**[Day 82](#day-82-november-16-2020)** || 
+**[Day 83](#day-83-november-17-2020)** || 
+**[Day 84](#day-84-november-18-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -1058,6 +1065,93 @@ ___
 
 #### **Total time**:
 4h.
+___
+### Day 78: November 12, 2020
+
+#### **Today's Progress**: 
+1. **[Dolibarr installation for SGE](https://github.com/pablohs1986/dam_sge2021)** (2h):<br>I did the installation and configuration of Dolibarr. I am having trouble opening phpMyAdmin.
+    
+#### **What I learned**: 
+* Install Dolibarr.
+
+#### **Total time**:
+2h.
+___
+### Day 79: November 13, 2020
+
+#### **Today's Progress**: 
+1. **[Upgrading to Big Sur](https://dev.to/pablohs1986/macos-users-java-problems-in-big-sur-help-7pa)** (3h):<br>I upgraded my MacBook to MacOs Big Sur, to the unpleasant surprise that everything that worked with Java worked poorly. Specifically NetBeans, it had died. I did a format and clean install without success.
+    
+#### **What I learned**: 
+* How to hate an OS.
+
+#### **Total time**:
+3h.
+___
+### Day 80: November 14, 2020
+
+#### **Today's Progress**: 
+1. **[Upgrading to Big Sur](https://dev.to/pablohs1986/macos-users-java-problems-in-big-sur-help-7pa)** (2h):<br>I kept researching how to bring Java back to life in Big Sur. Unsuccessfully.
+2. **[PostgreSQL exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h):<br>I started to carry out a PostgreSQL activity for SGE, making changes to tables in a schema, inserting data and making several SQL statements.
+    
+#### **What I learned**: 
+* How to hate an OS.
+* Review of SQL.
+
+#### **Total time**:
+4h.
+___
+### Day 81: November 15, 2020
+
+#### **Today's Progress**: 
+1. **[PostgreSQL exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h 30min):<br>I finished the exercise, I had to get the chestnuts out of the fire doing subqueries.
+    
+#### **What I learned**: 
+* Review of SQL.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 82: November 16, 2020
+
+#### **Today's Progress**: 
+1. **[Balanced system exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (2h 30min):<br>I started doing this exercise for SGE, where we have to do the user manual to configure a balanced system with Odoo and a PostgreSQL database. 
+    
+#### **What I learned**: 
+* How to manually install an Odoo system.
+* How to prepare two servers for a balanced system.
+
+#### **Total time**:
+2h 30min.
+___
+### Day 83: November 17, 2020
+
+#### **Today's Progress**: 
+1. **[Balanced system exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (2h):<br>I continued doing the balanced system. 
+2. **[Upgrading to Big Sur](https://dev.to/pablohs1986/macos-users-java-problems-in-big-sur-help-7pa)** (30min):<br>I kept researching how to bring Java back to life in Big Sur. Unsuccessfully again. Fortunately, JetBrains has updated their software and is now compatible with Big Sur, so I have installed IntelliJ on my MacBook and can now use Java on it again.
+    
+#### **What I learned**: 
+* How to manually install an Odoo system.
+* How to prepare two servers for a balanced system.
+* How to hate an OS.
+
+#### **Total time**:
+2h 30min.
+___
+### Day 84: November 18, 2020
+
+#### **Today's Progress**: 
+1. **[Balanced system exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h 30min):<br>I ended the balanced system. 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I keep going through the File class, doing exercises with FileReader and BufferedReader. I've also gone over JAXB theory to tackle the exercises soon.
+    
+#### **What I learned**: 
+* How to manually install an Odoo system.
+* How to prepare two servers for a balanced system.
+* Review of FileReader and BufferedReader.
+* What is and how to use JAXB.
+
+#### **Total time**:
+3h 30min.
 ___
 
 [🔝](#menu)
