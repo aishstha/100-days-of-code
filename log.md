@@ -87,6 +87,12 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 82](#day-82-november-16-2020)** || 
 **[Day 83](#day-83-november-17-2020)** || 
 **[Day 84](#day-84-november-18-2020)** || 
+**[Day 85](#day-85-november-19-2020)** || 
+**[Day 86](#day-86-november-20-2020)** || 
+**[Day 87](#day-87-november-21-2020)** || 
+**[Day 88](#day-88-november-22-2020)** || 
+**[Day 89](#day-89-november-23-2020)** || 
+**[Day 90](#day-90-november-24-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -1142,7 +1148,7 @@ ___
 
 #### **Today's Progress**: 
 1. **[Balanced system exercise for SGE](https://github.com/pablohs1986/dam_sge2021)** (1h 30min):<br>I ended the balanced system. 
-1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I keep going through the File class, doing exercises with FileReader and BufferedReader. I've also gone over JAXB theory to tackle the exercises soon.
+2. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I keep going through the File class, doing exercises with FileReader and BufferedReader. I've also gone over JAXB theory to tackle the exercises soon.
     
 #### **What I learned**: 
 * How to manually install an Odoo system.
@@ -1152,6 +1158,87 @@ ___
 
 #### **Total time**:
 3h 30min.
+___
+### Day 85: November 19, 2020
+
+#### **Today's Progress**: 
+1. **[PMDM, preparing the environment](https://github.com/pablohs1986/dam_pmdm)** (1h 30min):<br>I installed Android Studio and made the necessary configuration to start working with it.
+    
+#### **What I learned**: 
+* How to install Android Studio and configure it.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 85: November 19, 2020
+
+#### **Today's Progress**: 
+1. **[PMDM, preparing the environment](https://github.com/pablohs1986/dam_pmdm)** (1h 30min):<br>I installed Android Studio and made the necessary configuration to start working with it.
+    
+#### **What I learned**: 
+* How to install Android Studio and configure it.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 86: November 20, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>I keep going through the File class, doing exercises with FileReader and BufferedReader. I read a CSV file with weather information and calculated the day of the year with the highest maximum temperature.
+    
+#### **What I learned**: 
+* How to access a CSV file and extract information.
+
+#### **Total time**:
+2h.
+___
+### Day 87: November 21, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h 30min):<br>Today I learned how to make a method that detects a word or phrase in a text file and replaces it with another.
+2. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (2h):<br>I did some JavaScript exercises.
+    
+#### **What I learned**: 
+* How to use the Split method correctly.
+* Review of JavaScript sintax.
+
+#### **Total time**:
+3h 30min.
+___
+### Day 88: November 22, 2020
+
+#### **Today's Progress**: 
+1. **[PSP, studying the Threads](https://github.com/pablohs1986/dam_psp2021)** (2h):<br>I started studying the threads, taking a look at the theory and starting with the exercises.
+2. **[Continued with Confección y Publicación de Páginas Web Course](https://github.com/pablohs1986/confecci-nYpublicaci-nDeP-ginasWeb_SEPE)** (2h):<br>I did some JavaScript exercises.
+    
+#### **What I learned**: 
+* How to create threads in various ways.
+* Review of JavaScript sintax.
+
+#### **Total time**:
+3h 30min.
+___
+### Day 89: November 23, 2020
+
+#### **Today's Progress**: 
+1. **[DI exercises](https://github.com/pablohs1986/dam_di2021)** (1h 30min):<br>I started doing basic exercises, learning how to pass information from one screen to another.
+    
+#### **What I learned**: 
+* How to pass information from one screen to another.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 90: November 24, 2020
+
+#### **Today's Progress**: 
+1. **[PSP, studying the Threads](https://github.com/pablohs1986/dam_psp2021)** (2h):<br>I played with the basic methods of the threads, doing various exercises.
+    
+#### **What I learned**: 
+* Use of the different methods of the threads.
+
+#### **Total time**:
+2h.
 ___
 
 [🔝](#menu)
