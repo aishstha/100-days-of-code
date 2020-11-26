@@ -93,6 +93,8 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 88](#day-88-november-22-2020)** || 
 **[Day 89](#day-89-november-23-2020)** || 
 **[Day 90](#day-90-november-24-2020)** || 
+**[Day 91](#day-91-november-25-2020)** || 
+**[Day 92](#day-92-november-26-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -1239,6 +1241,17 @@ ___
 
 #### **Total time**:
 2h.
+___
+### Day 91: November 25, 2020
+
+#### **Today's Progress**: 
+1. **[DI exercises](https://github.com/pablohs1986/dam_di2021)** (1h 30min):<br>I keep working on the exercises. Focusing on handling the TableModel.
+    
+#### **What I learned**: 
+* Handle TableModel.
+
+#### **Total time**:
+1h 30min.
 ___
 
 [🔝](#menu)
