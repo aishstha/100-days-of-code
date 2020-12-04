@@ -95,6 +95,14 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 90](#day-90-november-24-2020)** || 
 **[Day 91](#day-91-november-25-2020)** || 
 **[Day 92](#day-92-november-26-2020)** || 
+**[Day 93](#day-93-november-27-2020)** || 
+**[Day 94](#day-94-november-28-2020)** || 
+**[Day 95](#day-95-november-29-2020)** || 
+**[Day 96](#day-96-november-30-2020)** || 
+**[Day 97](#day-97-november-01-2020)** || 
+**[Day 98](#day-98-november-02-2020)** || 
+**[Day 99](#day-99-november-03-2020)** || 
+**[Day 100](#day-100-november-04-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
@@ -1249,6 +1257,107 @@ ___
     
 #### **What I learned**: 
 * Handle TableModel.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 92: November 26, 2020
+
+#### **Today's Progress**: 
+1. **[JAXB](https://github.com/pablohs1986/dam_ad2021)** (1h 30min):<br>Studying JAXB theory.
+    
+#### **What I learned**: 
+* JAXB theory.
+* 
+#### **Total time**:
+1h 30min.
+___
+### Day 93: November 27, 2020
+
+#### **Today's Progress**: 
+1. **[DI exercises](https://github.com/pablohs1986/dam_di2021)** (1h 30min):<br>I keep working on the exercises. Focusing on handling the TableModel.
+    
+#### **What I learned**: 
+* Handle TableModel.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 94: November 28, 2020
+
+#### **Today's Progress**: 
+1. **[DI exercises](https://github.com/pablohs1986/dam_di2021)** (1h 30min):<br>I keep working on the exercises. Focusing on Look&Feel.
+    
+#### **What I learned**: 
+* Handle Look&Feel.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 95: November 29, 2020
+
+#### **Today's Progress**: 
+1. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h 30min):<br>I went over how to use StringTokenizer, Iterator and complex structures in Java with a few exercises.
+    
+#### **What I learned**: 
+* Review of StringTokenizer, Iterator and complex structures in Java.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 96: November 30, 2020
+
+#### **Today's Progress**: 
+1. **[Review for SGE exam](https://github.com/pablohs1986/dam_sge2021)** (1h 30min):<br>Studying for SGE.
+2. **[File Java Class](https://github.com/pablohs1986/dam_ad2021)** (1h 30min):<br>I went over how to use StringTokenizer, Iterator and complex structures in Java with a few exercises.
+    
+#### **What I learned**: 
+* Basics of ERP & CRM.
+* Review of StringTokenizer, Iterator and complex structures in Java.
+
+#### **Total time**:
+1h 30min.
+___
+### Day 97: December 01, 2020
+
+#### **Today's Progress**: 
+1. **[Review for SGE exam](https://github.com/pablohs1986/dam_sge2021)** (1h 30min):<br>I reviewed for the SGE exam.
+    
+#### **What I learned**: 
+* Basics of ERP & CRM.
+  
+#### **Total time**:
+1h 30min.
+___
+### Day 98: December 02, 2020
+
+#### **Today's Progress**: 
+1. **[PSP, studying Threads](https://github.com/pablohs1986/dam_psp2021)** (2h):<br>I did several exercises to learn how to handle synchronization, monitors and semaphores.
+    
+#### **What I learned**: 
+* Synchronization, monitors and semaphores;
+
+#### **Total time**:
+2h.
+___
+### Day 99: December 03, 2020
+
+#### **Today's Progress**: 
+2. **[JAXB](https://github.com/pablohs1986/dam_ad2021)** (2h):<br>Studying JAXB with some exercises.
+    
+#### **What I learned**: 
+* Marshalize, unmarshalize, query, insert and delete data.
+
+#### **Total time**:
+2h.
+___
+### Day 100: December 04, 2020
+#### **Today's Progress**: 
+1. **[DI exercises](https://github.com/pablohs1986/dam_di2021)** (1h 30min):<br>I keep working on the exercises. Focusing on creating my own components.
+2. **Well, today I finished this challenge. It has been a great experience that has helped me to get regular coding.**
+    
+#### **What I learned**:
+* Create own components on Java Swing. 
 
 #### **Total time**:
 1h 30min.
