@@ -99,10 +99,10 @@ The log of my #100DaysOfCode Challenge. Here you can see my progress.
 **[Day 94](#day-94-november-28-2020)** || 
 **[Day 95](#day-95-november-29-2020)** || 
 **[Day 96](#day-96-november-30-2020)** || 
-**[Day 97](#day-97-november-01-2020)** || 
-**[Day 98](#day-98-november-02-2020)** || 
-**[Day 99](#day-99-november-03-2020)** || 
-**[Day 100](#day-100-november-04-2020)** || 
+**[Day 97](#day-97-december-01-2020)** || 
+**[Day 98](#day-98-december-02-2020)** || 
+**[Day 99](#day-99-december-03-2020)** || 
+**[Day 100](#day-100-december-04-2020)** || 
 ___
 ### Day 0: August 26, 2020
 ##### I was preparing for the challenge, working on this repository and on a list of goals 🦾
